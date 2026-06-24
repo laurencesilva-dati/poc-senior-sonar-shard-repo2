@@ -1,0 +1,6 @@
+projectKey=poc-erp-modulo-fiscal
+serverUrl=http://k8s-sonarsha-sonarsha-5060bff1f2-1e36c5247a96b330.elb.us-east-1.amazonaws.com:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://k8s-sonarsha-sonarsha-5060bff1f2-1e36c5247a96b330.elb.us-east-1.amazonaws.com:9000/dashboard?id=poc-erp-modulo-fiscal
+ceTaskId=040fecb2-2122-4afc-bfec-e1e6ce4ae693
+ceTaskUrl=http://k8s-sonarsha-sonarsha-5060bff1f2-1e36c5247a96b330.elb.us-east-1.amazonaws.com:9000/api/ce/task?id=040fecb2-2122-4afc-bfec-e1e6ce4ae693
